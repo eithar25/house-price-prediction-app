@@ -246,7 +246,7 @@ with a Pydantic validation error body.
 ## Screenshots
 
 ### Prediction form
-![Prediction form](docs/screenshot-form.png)
+![Prediction form](docs/screenshot-form.jpg)
 
 ### Prediction result
-![Prediction result](docs/screenshot-result.png)
+![Prediction form](docs/screenshot-form.jpg)
