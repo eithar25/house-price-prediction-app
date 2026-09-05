@@ -249,4 +249,4 @@ with a Pydantic validation error body.
 ![Prediction form](docs/screenshot-form.jpg)
 
 ### Prediction result
-![Prediction form](docs/screenshot-result.png)
+![Prediction form]("docs\screenshot-result.png")
