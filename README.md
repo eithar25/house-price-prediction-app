@@ -1,4 +1,3 @@
-<img width="1917" height="861" alt="screenshot-result" src="https://github.com/user-attachments/assets/4676a3e1-2aea-4968-8264-df74ea4e61bf" />
 # House Price Prediction — End-to-End ML Web App
 
 An end-to-end machine learning web app that predicts residential property prices in India.
@@ -250,5 +249,5 @@ with a Pydantic validation error body.
 ![Prediction form](docs/screenshot-form.jpg)
 
 ### Prediction result
+<img width="1917" height="861" alt="screenshot-result" src="https://github.com/user-attachments/assets/4676a3e1-2aea-4968-8264-df74ea4e61bf" />
 
-![Prediction form]("docs\screenshot-result.png")
